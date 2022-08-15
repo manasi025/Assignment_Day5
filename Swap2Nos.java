@@ -29,3 +29,19 @@ public class Swap2Nos {
 
 	}
 }
+
+/*
+OUTPUT :
+
+Enter the 1st no. : 
+30
+Enter the 2nd no. : 
+6
+***** Before Swapping *****
+First number : 30
+Second number : 6
+***** After Swapping *****
+First number : 6
+Second number : 30
+
+*/
