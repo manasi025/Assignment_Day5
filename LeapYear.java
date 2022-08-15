@@ -22,3 +22,11 @@ public class LeapYear {
 		}	
 	}
 }
+
+/* OUTPUT :
+
+Enter the Year in 4 digits : 
+2020
+2020 is a Leap Year
+
+*/
