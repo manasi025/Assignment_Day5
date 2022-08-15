@@ -23,3 +23,11 @@ public class LargestNo {
  
     }
 }
+
+
+/*
+OUTPUT :
+
+Largest number is : 7
+
+*/
