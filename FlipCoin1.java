@@ -10,7 +10,7 @@ public class FlipCoin1 {
 	        double randNum = 0.0;
 	       Scanner in = new Scanner(System.in);
 	         
-	       System.out.println(" How many times will the coin be flipped? ");
+	       System.out.println("How many times will the coin be flipped? ");
 	        int flips = in.nextInt();
 	        while(counter <= flips)
 	        {
@@ -37,3 +37,16 @@ public class FlipCoin1 {
 
 	}
 }
+
+/* 
+OUTPUT :
+
+How many times will the coin be flipped? 
+15
+Number of Heads = 10
+Number of Tails = 5
+Percentage of getting Heads = 66.66667175292969 %
+Percentage of getting Tails = 33.33332824707031 %
+
+*/
+
