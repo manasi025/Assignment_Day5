@@ -24,3 +24,14 @@ public class QuotientRemainder
 	+ Divisor + " is: " + Remainder);  
 	    }  
 }
+
+/*
+OUTPUT :
+
+Enter the value of Dividend & Divisor : 
+15
+10
+Quotient when 15/10 is: 1
+Remainder when 15/10 is: 5
+
+*/
