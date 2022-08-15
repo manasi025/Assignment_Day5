@@ -16,5 +16,13 @@ public class VowelsConsonants
             System.out.println(ch + " is a Consonant");
         }
 
-	}
 }
+	
+}
+
+/*
+OUTPUT :
+
+I is a Vowel
+
+*/
