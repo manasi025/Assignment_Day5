@@ -21,3 +21,15 @@ public class HarmonicNumbr {
 
 	}
 }
+
+/*
+OUTPUT : 
+
+The Harmonic Series is : 
+1.0 
+0.5 
+0.3333333333333333 
+0.25 
+0.2 
+
+*/
