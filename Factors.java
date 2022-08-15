@@ -19,3 +19,12 @@ public class Factors {
 }
 	
 }
+
+/* OUTPUT :
+
+Enter a no. whose Prime Factors are to be displayed : 
+10
+2 
+5 
+
+*/
